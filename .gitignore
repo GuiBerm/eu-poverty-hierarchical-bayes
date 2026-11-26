@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+BDA*
+explanation.md
+reco*
 # Distribution / packaging
 .Python
 build/
